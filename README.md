@@ -1,6 +1,6 @@
 # LIBSVM_PREON32
 # Profil
-Nama : Qolbi Fathurrohi,
+Nama : Qolbi Fathurrohim
 Judul Skripsi : Porting LIBSVM ke Node Sensor Preon32
 Dosen Pembimbing : Elisati Hulu, M.T
 # Deskripsi
